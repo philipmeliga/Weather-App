@@ -1,0 +1,14 @@
+#container {
+  background-color: #ff6a6a;
+  box-shadow: 0 0 10px; 
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  max-width: 600px;
+  border-radius: 5px;
+  padding: 20px;
+}
+button{
+    background-color:#ffdfd4;
+    border-radius: 5px;
+}
