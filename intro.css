@@ -7,8 +7,12 @@
   max-width: 600px;
   border-radius: 5px;
   padding: 20px;
+  
 }
 button{
     background-color:#ffdfd4;
     border-radius: 5px;
+}
+#creator{
+    font-family:cursive; 
 }
